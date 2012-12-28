@@ -1,0 +1,10 @@
+.settings
+.classpath
+assets
+bin
+gen
+libs
+*.log
+*.sh
+*.txt
+*.png
